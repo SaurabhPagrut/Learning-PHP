@@ -9,7 +9,7 @@
 <body>
     <h2>This is my first PHP program!</h2>
     <?php
-    echo "This is PHP written statement";
+    echo "This is PHP written statement.";
     echo "<br>";
     echo "<br>";
 
